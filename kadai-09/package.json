@@ -1,19 +1,27 @@
 {
-    "name": "kadai-09",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "cowsay": "^1.5.0"
-    },
-    "devDependencies": {
-      "webpack": "^5.65.0",
-      "webpack-cli": "^4.9.1"
-    }
+  "name": "kadai-2021-ld2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoshida-kadai-fallsemester/kadai-2021-ld2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoshida-kadai-fallsemester/kadai-2021-ld2/issues"
+  },
+  "homepage": "https://github.com/yoshida-kadai-fallsemester/kadai-2021-ld2#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.66.0",
+    "webpack-cli": "^4.9.1"
   }
+}
